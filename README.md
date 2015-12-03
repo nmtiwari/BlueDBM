@@ -1,1 +1,1 @@
-# BlueDBM
+BlueDBM is a BigData appliance develpoed to use Flash devices instead of HDD or DRAM for Big Data computation. This work proves that BIg Data can be used in rack sized clusters using SDD in place of HDD and still achieve the performance closer to RamCloud.
